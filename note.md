@@ -13,5 +13,7 @@ Branch
 - git log
 - git log --online
 - git checkout {branch name}: đổi nhánh
-- git branch: xem branch
+- git branch: xem tất cả branch
 - git checkout -b {branch name}: tạo branch mới
+- git merge {branch name}
+- git branch -d {branch name}
