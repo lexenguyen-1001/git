@@ -1,10 +1,10 @@
 # Terms
 
-Repository (Repo)
-Branch
-Conflict
-Local
-Remote
+- Repository (Repo)
+- Branch
+- Conflict
+- Local
+- Remote
 
 # Commands
 
